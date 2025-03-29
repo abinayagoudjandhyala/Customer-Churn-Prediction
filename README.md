@@ -58,13 +58,7 @@ The dataset contains customer data from a telecom company, including demographic
 git clone https://github.com/abinayagoudjandhyala/customer-churn-analysis.git
 ```
 2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
 3. Run the Jupyter Notebook to generate predictions:
-```bash
-jupyter notebook CustomerChurnPrediction.ipynb
-```
 4. Import the CSV file into Power BI and create the dashboard using the above visualizations.
 
 ---
